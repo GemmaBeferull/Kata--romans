@@ -1,4 +1,4 @@
-function application() {
+export default function application() {
 
     const numerals = [
         {value: 1000, numeral: 'M'},
@@ -31,4 +31,4 @@ function application() {
     }
 }
 
-    module.exports = application;
+   // module.exports = application;
